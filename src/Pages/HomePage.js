@@ -86,7 +86,7 @@ function HomePage() {
       <div
         style={{
           minHeight: "100vh",
-          background: "radial-gradient(ellipse, #77B6FF 0%, #171717 100%)",
+          background: "radial-gradient(ellipse, #FFF4CC 0%, #171717 100%)",
         }}
       >
         <Stars color="#fff" />
@@ -128,10 +128,10 @@ function HomePage() {
                 <a href="https://iftiinupkeep-production.up.railway.app/">
               <Button name="MONITORZONE" />
                </a>
- <a href="https://iftiinupkeep-production.up.railway.app/">
+             <a href="https://iftiinupkeep-production.up.railway.app/">
               <Button name="MEMOZONE" />
                </a>
- <a href="https://iftiinupkeep-production.up.railway.app/">
+            <a href="https://iftiinupkeep-production.up.railway.app/">
               <Button name="BOARDZONE" />
                </a>
             </Grid>
